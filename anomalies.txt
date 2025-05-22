@@ -1,0 +1,255 @@
+{
+  "anomalies": [
+    {
+      "event": "appearance_changed",
+      "frame_number": 142,
+      "video_id": "part1.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 143,
+      "video_id": "part1.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 144,
+      "video_id": "part1.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 145,
+      "video_id": "part1.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 146,
+      "video_id": "part1.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 147,
+      "video_id": "part1.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 148,
+      "video_id": "part1.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 149,
+      "video_id": "part1.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 150,
+      "video_id": "part1.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 151,
+      "video_id": "part1.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 152,
+      "video_id": "part1.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 153,
+      "video_id": "part1.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 163,
+      "video_id": "part1.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 166,
+      "video_id": "part1.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 167,
+      "video_id": "part1.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 168,
+      "video_id": "part1.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 169,
+      "video_id": "part1.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 170,
+      "video_id": "part1.mp4"
+    },
+    {
+      "event": "exited_from_frame",
+      "frame_number": 173,
+      "video_id": "part1.mp4"
+    },
+    {
+      "event": "exited_from_frame",
+      "frame_number": 173,
+      "video_id": "part1.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 829,
+      "video_id": "part2.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 830,
+      "video_id": "part2.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 840,
+      "video_id": "part2.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 1079,
+      "video_id": "part2.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 1089,
+      "video_id": "part2.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 1090,
+      "video_id": "part2.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 1091,
+      "video_id": "part2.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 1944,
+      "video_id": "part2.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 1945,
+      "video_id": "part2.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 1946,
+      "video_id": "part2.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 1947,
+      "video_id": "part2.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 1948,
+      "video_id": "part2.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 1949,
+      "video_id": "part2.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 1950,
+      "video_id": "part2.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 1951,
+      "video_id": "part2.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 1952,
+      "video_id": "part2.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 1953,
+      "video_id": "part2.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 1954,
+      "video_id": "part2.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 1966,
+      "video_id": "part2.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 1967,
+      "video_id": "part2.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 1968,
+      "video_id": "part2.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 1969,
+      "video_id": "part2.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 1970,
+      "video_id": "part2.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 1971,
+      "video_id": "part2.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 1972,
+      "video_id": "part2.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 1973,
+      "video_id": "part2.mp4"
+    },
+    {
+      "event": "appearance_changed",
+      "frame_number": 1974,
+      "video_id": "part2.mp4"
+    },
+    {
+      "event": "exited_from_frame",
+      "frame_number": 1980,
+      "video_id": "part2.mp4"
+    },
+    {
+      "event": "exited_from_frame",
+      "frame_number": 173,
+      "video_id": "part1.mp4"
+    },
+    {
+      "event": "exited_from_frame",
+      "frame_number": 1980,
+      "video_id": "part2.mp4"
+    }
+  ],
+  "person_id": "1"
+}
